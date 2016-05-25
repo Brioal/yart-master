@@ -110,7 +110,7 @@ p a {
 
 @media screen {
 	.download-button {
-		font-family:  Verdana, Arial,sans-serif;
+		font-family: 'Seravek', 'Seoge UI', 'Helvetica Neue', 'Helvetica', Verdana, Arial, 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', sans-serif;
 		font-size: 14pt;
 		border-radius: 3px;
 		letter-spacing: 0.03rem;
@@ -199,7 +199,7 @@ p a {
 
 
 body {
-	font-family:  Verdana, Arial,sans-serif;
+	font-family: 'Iowan Old Style', 'FF Meta Serif', 'Freight Text Pro', 'Palatino', Merriweather, Charter, Georgia, 'Times New Roman', 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', serif;
 	color: #444;
 	background: none;
 }
@@ -240,7 +240,7 @@ a {
 }
 
 .section-heading, .subsection-tagline {
-	font-family:  Verdana, Arial,sans-serif;
+	font-family: 'Seravek', 'Seoge UI', 'Helvetica Neue', 'Helvetica', Verdana, Arial, 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', sans-serif;
 }
 
 .section-heading {
@@ -264,7 +264,7 @@ h3 {
 }
 
 h3 .duration {
-	font-family:  Verdana, Arial,sans-serif;
+	font-family: 'Seravek', 'Seoge UI', 'Helvetica Neue', 'Helvetica', Verdana, Arial, 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', sans-serif;
 	font-weight: 200;
 	color: #7A7A7A;
 }
@@ -279,7 +279,7 @@ p a {
 }
 
 .ref {
-	font-family:  Verdana, Arial,sans-serif;
+	font-family: 'Seravek', 'Seoge UI', 'Helvetica Neue', 'Helvetica', Verdana, Arial, 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', sans-serif;
 	font-weight: 300;
 	color: #999;
 }
@@ -323,7 +323,7 @@ p a {
 		color: #999;
 	}
 	p {
-		font-family:  Verdana, Arial,sans-serif;
+		font-family: 'Iowan Old Style', 'FF Meta Serif', 'Freight Text Pro', 'Palatino', Merriweather, Charter, Georgia, 'Times New Roman', 'Lantinghei SC', 'Hiragino Sans GB', 'Heiti SC', serif;
 		color: #030303;
 	}
 }
